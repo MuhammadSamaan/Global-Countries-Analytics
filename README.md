@@ -122,7 +122,7 @@ Global Countries Analysis/
 
 ## 👤 About the Author
 
-**Muhammad Samaan**: Computer Science graduate (Iqra University, Karachi), building skills in **Data Analytics, Business Intelligence and Full-Stack Development**. I'm open to entry-level and internship roles, remote or on-site.
+**Muhammad Samaan**: Computer Science graduate (Iqra University, Karachi), Core Interests **Data Analytics, Business Intelligence Tools, Data Enginner, Data Scientist Full-Stack Development**. I'm open to roles, remote or on-site. Would Love to Connect with Professionals and Industry's Giants. Feel free to reach me out even if you are anyone, need assistance and want to ask or discuss something.
 
 📧 mohammadsamaan105@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/muhammad-samaan) · 💻 [GitHub](https://github.com/MuhammadSamaan)
